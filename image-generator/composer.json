@@ -1,0 +1,6 @@
+{
+  "require": {
+    "php": ">=7.4",
+    "php-mqtt/client": "^1.8.1"
+  }
+}
